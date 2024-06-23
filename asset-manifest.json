@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/GrocaInsta/static/css/main.e188fbac.css",
+    "main.js": "/GrocaInsta/static/js/main.d088cec3.js",
+    "static/js/453.8ab44547.chunk.js": "/GrocaInsta/static/js/453.8ab44547.chunk.js",
+    "static/media/maggie.webp": "/GrocaInsta/static/media/maggie.5b1580fd0e1ed3f1200a.webp",
+    "static/media/coconut.png": "/GrocaInsta/static/media/coconut.0789c66fa81896ba2034.png",
+    "static/media/watermelon.png": "/GrocaInsta/static/media/watermelon.9dd06319e390bfa59851.png",
+    "static/media/rice.webp": "/GrocaInsta/static/media/rice.eec321c6ffbfc8eda475.webp",
+    "static/media/offers.png": "/GrocaInsta/static/media/offers.0de24f5340577dbb1c1f.png",
+    "static/media/dragon.png": "/GrocaInsta/static/media/dragon.9857700a851b634e11da.png",
+    "static/media/purabi.jpg": "/GrocaInsta/static/media/purabi.c17997e9cb52f4efd245.jpg",
+    "static/media/Avocado.png": "/GrocaInsta/static/media/Avocado.75fee8af3b35a72ff650.png",
+    "static/media/guava.png": "/GrocaInsta/static/media/guava.3c4348cc4671359e88a3.png",
+    "static/media/oreo.webp": "/GrocaInsta/static/media/oreo.ce73a38896d71bf5390a.webp",
+    "static/media/vegetable.png": "/GrocaInsta/static/media/vegetable.878b2d0c3d1ae2fc52de.png",
+    "static/media/carrots.webp": "/GrocaInsta/static/media/carrots.4de9bc0aaa563e7528a5.webp",
+    "static/media/ridgegourd.png": "/GrocaInsta/static/media/ridgegourd.5adfbd7f94c014139a8f.png",
+    "static/media/brinjal.webp": "/GrocaInsta/static/media/brinjal.232b165e08e7f73b8af2.webp",
+    "static/media/capsicum.png": "/GrocaInsta/static/media/capsicum.1fa4ab9b0719df213212.png",
+    "static/media/digestive.png": "/GrocaInsta/static/media/digestive.0eff97a5bf4c87805390.png",
+    "static/media/Mid-June Sale.jpg": "/GrocaInsta/static/media/Mid-June Sale.594399057e972f54b2b4.jpg",
+    "static/media/Orange.jpg": "/GrocaInsta/static/media/Orange.8eda4fa339a3c529d3f0.jpg",
+    "static/media/chips.png": "/GrocaInsta/static/media/chips.e550f86f80b92b3a963b.png",
+    "static/media/apple.jpg": "/GrocaInsta/static/media/apple.5296bb8a43238359272c.jpg",
+    "static/media/pomegranate.jpg": "/GrocaInsta/static/media/pomegranate.19fcfa31c5eafcdb3daf.jpg",
+    "static/media/cauliflower.jpg": "/GrocaInsta/static/media/cauliflower.0ec8818473c15f119408.jpg",
+    "static/media/beans.jpg": "/GrocaInsta/static/media/beans.da0720e883c95464c751.jpg",
+    "static/media/saffola.jpg": "/GrocaInsta/static/media/saffola.f0da9c658f250ad6cc6a.jpg",
+    "static/media/grapes.jpg": "/GrocaInsta/static/media/grapes.d0299e5a488b2e9e43e5.jpg",
+    "static/media/tomato.jpg": "/GrocaInsta/static/media/tomato.113869ab2c52e73460b8.jpg",
+    "static/media/pumpkin.jpg": "/GrocaInsta/static/media/pumpkin.cf00d22150715f312f97.jpg",
+    "static/media/onion.jpg": "/GrocaInsta/static/media/onion.20882ac69bcb1672f6a6.jpg",
+    "index.html": "/GrocaInsta/index.html",
+    "main.e188fbac.css.map": "/GrocaInsta/static/css/main.e188fbac.css.map",
+    "main.d088cec3.js.map": "/GrocaInsta/static/js/main.d088cec3.js.map",
+    "453.8ab44547.chunk.js.map": "/GrocaInsta/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e188fbac.css",
+    "static/js/main.d088cec3.js"
+  ]
+}
