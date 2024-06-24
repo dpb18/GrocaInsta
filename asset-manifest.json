@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/GrocaInsta/static/css/main.e188fbac.css",
+    "main.css": "/GrocaInsta/static/css/main.fefb87c5.css",
     "main.js": "/GrocaInsta/static/js/main.d088cec3.js",
     "static/js/453.8ab44547.chunk.js": "/GrocaInsta/static/js/453.8ab44547.chunk.js",
     "static/media/maggie.webp": "/GrocaInsta/static/media/maggie.5b1580fd0e1ed3f1200a.webp",
@@ -32,12 +32,12 @@
     "static/media/pumpkin.jpg": "/GrocaInsta/static/media/pumpkin.cf00d22150715f312f97.jpg",
     "static/media/onion.jpg": "/GrocaInsta/static/media/onion.20882ac69bcb1672f6a6.jpg",
     "index.html": "/GrocaInsta/index.html",
-    "main.e188fbac.css.map": "/GrocaInsta/static/css/main.e188fbac.css.map",
+    "main.fefb87c5.css.map": "/GrocaInsta/static/css/main.fefb87c5.css.map",
     "main.d088cec3.js.map": "/GrocaInsta/static/js/main.d088cec3.js.map",
     "453.8ab44547.chunk.js.map": "/GrocaInsta/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e188fbac.css",
+    "static/css/main.fefb87c5.css",
     "static/js/main.d088cec3.js"
   ]
 }
